@@ -1,0 +1,30 @@
+/*About Section*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+.section{
+	width: 100%;
+	min-height: 100vh;
+}
+.container{
+	width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 100px;
+}
+.content-section{
+	float: left;
+	width: 100%;
+}
+
+img{
+	position: fixed;
+	bottom: 40px;
+	left: 30%;
+	right: 50%;
+}
